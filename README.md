@@ -27,6 +27,7 @@ The purpose of this repository is to improve my problem-solving skills, understa
 | Second Smallest Element in the List | Arrays |
 | Running Sum of 1D Array | Prefix Sum |
 | Fibonacci Number | Recursion |
+| Sum of N natural numbers | Recursion |
 
 ---
 
