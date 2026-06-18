@@ -13,6 +13,7 @@ The purpose of this repository is to improve my problem-solving skills, understa
 - Arrays
 - Two Pointer
 - Prefix Sum
+- Recursion
 
 ---
 
@@ -25,6 +26,7 @@ The purpose of this repository is to improve my problem-solving skills, understa
 | Second Largest Element in the List | Arrays |
 | Second Smallest Element in the List | Arrays |
 | Running Sum of 1D Array | Prefix Sum |
+| Fibonacci Number | Recursion |
 
 ---
 
