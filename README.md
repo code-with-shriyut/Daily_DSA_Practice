@@ -32,6 +32,7 @@ The purpose of this repository is to improve my problem-solving skills, understa
 | Finding the element | Binary Search |
 | First Occurence of an element | Binary Search |
 | Remove Duplicates from a sorted array | Two Pointers |
+| Find_the_highest_altitude | Arrays / Prefix Sum |
 ---
 
 ## 💻 Language Used
@@ -53,7 +54,7 @@ Python 🐍
 
 ## 📈 Current Progress
 
-✅ 10 DSA Problems Solved
+✅ 10+ DSA Problems Solved
 
 🔥 Daily Consistency in Progress
 
