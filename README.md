@@ -14,6 +14,7 @@ The purpose of this repository is to improve my problem-solving skills, understa
 - Two Pointer
 - Prefix Sum
 - Recursion
+- Binary Search
 
 ---
 
@@ -28,7 +29,8 @@ The purpose of this repository is to improve my problem-solving skills, understa
 | Running Sum of 1D Array | Prefix Sum |
 | Fibonacci Number | Recursion |
 | Sum of N natural numbers | Recursion |
-
+| Finding the element | Binary Search |
+| First Occurence of an element | Binary Search |
 ---
 
 ## 💻 Language Used
@@ -50,11 +52,9 @@ Python 🐍
 
 ## 📈 Current Progress
 
-✅ 5 DSA Problems Solved
+✅ 9 DSA Problems Solved
 
 🔥 Daily Consistency in Progress
-
-🚀 Currently Learning: Arrays Patterns
 
 ---
 
@@ -65,8 +65,6 @@ Python 🐍
 - HashMap / Frequency Count
 - Strings
 - Stack
-- Binary Search
-- Recursion
 - Linked List
 - Trees
 - Graphs
