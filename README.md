@@ -33,6 +33,8 @@ The purpose of this repository is to improve my problem-solving skills, understa
 | First Occurence of an element | Binary Search |
 | Remove Duplicates from a sorted array | Two Pointers |
 | Find_the_highest_altitude | Arrays / Prefix Sum |
+| Guess Number Higher or Lower | Binary Search |
+| First Bad Version | Binary Search |
 ---
 
 ## 💻 Language Used
