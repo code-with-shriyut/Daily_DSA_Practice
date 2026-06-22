@@ -35,6 +35,9 @@ The purpose of this repository is to improve my problem-solving skills, understa
 | Find_the_highest_altitude | Arrays / Prefix Sum |
 | Guess Number Higher or Lower | Binary Search |
 | First Bad Version | Binary Search |
+| Arranging Coins | Binary Search |
+| Valid Perfect Square | Binary Search |
+| Search Insert Position | Binary Search |
 ---
 
 ## 💻 Language Used
@@ -56,7 +59,7 @@ Python 🐍
 
 ## 📈 Current Progress
 
-✅ 10+ DSA Problems Solved
+✅ 15+ DSA Problems Solved
 
 🔥 Daily Consistency in Progress
 
