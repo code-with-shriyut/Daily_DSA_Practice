@@ -15,6 +15,7 @@ The purpose of this repository is to improve my problem-solving skills, understa
 - Prefix Sum
 - Recursion
 - Binary Search
+- Hashing
 
 ---
 
@@ -38,6 +39,8 @@ The purpose of this repository is to improve my problem-solving skills, understa
 | Arranging Coins | Binary Search |
 | Valid Perfect Square | Binary Search |
 | Search Insert Position | Binary Search |
+| Check N and it's double | Hashing |
+| Count negative numbers in a Sorted Array | Two Pointer / Array / Matrix |
 ---
 
 ## 💻 Language Used
