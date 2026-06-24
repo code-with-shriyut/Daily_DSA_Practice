@@ -41,6 +41,7 @@ The purpose of this repository is to improve my problem-solving skills, understa
 | Search Insert Position | Binary Search |
 | Check N and it's double | Hashing |
 | Count negative numbers in a Sorted Array | Two Pointer / Array / Matrix |
+| Find smallest letter greater than target | Binary Search |
 ---
 
 ## 💻 Language Used
