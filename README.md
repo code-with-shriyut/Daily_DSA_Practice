@@ -16,6 +16,7 @@ The purpose of this repository is to improve my problem-solving skills, understa
 - Recursion
 - Binary Search
 - Hashing
+- Backtracking
 
 ---
 
@@ -42,6 +43,8 @@ The purpose of this repository is to improve my problem-solving skills, understa
 | Check N and it's double | Hashing |
 | Count negative numbers in a Sorted Array | Two Pointer / Array / Matrix |
 | Find smallest letter greater than target | Binary Search |
+| Subsets | Backtracking |
+| Find the distance value between two arrays | Binary Search / Arrays |
 ---
 
 ## 💻 Language Used
