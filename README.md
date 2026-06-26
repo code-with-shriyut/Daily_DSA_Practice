@@ -45,6 +45,7 @@ The purpose of this repository is to improve my problem-solving skills, understa
 | Find smallest letter greater than target | Binary Search |
 | Subsets | Backtracking |
 | Find the distance value between two arrays | Binary Search / Arrays |
+| Best time to buy and sell stock | Arrays |
 ---
 
 ## 💻 Language Used
@@ -66,7 +67,7 @@ Python 🐍
 
 ## 📈 Current Progress
 
-✅ 15+ DSA Problems Solved
+✅ 20+ DSA Problems Solved
 
 🔥 Daily Consistency in Progress
 
