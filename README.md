@@ -17,7 +17,7 @@ The purpose of this repository is to improve my problem-solving skills, understa
 - Binary Search
 - Hashing
 - Backtracking
-
+- Strings
 ---
 
 ## ✅ Solved Problems
@@ -46,6 +46,9 @@ The purpose of this repository is to improve my problem-solving skills, understa
 | Subsets | Backtracking |
 | Find the distance value between two arrays | Binary Search / Arrays |
 | Best time to buy and sell stock | Arrays |
+| Check Balanced String | Strings |
+| Subsets II | Backtracking |
+| Combination Sum II | Backtracking |
 ---
 
 ## 💻 Language Used
@@ -78,7 +81,6 @@ Python 🐍
 - Advanced Two Pointer
 - Sliding Window
 - HashMap / Frequency Count
-- Strings
 - Stack
 - Linked List
 - Trees
