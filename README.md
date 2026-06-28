@@ -49,6 +49,7 @@ The purpose of this repository is to improve my problem-solving skills, understa
 | Check Balanced String | Strings |
 | Subsets II | Backtracking |
 | Combination Sum II | Backtracking |
+| Letter Combination of a Phone number | HashMap / Backtracking |
 ---
 
 ## 💻 Language Used
@@ -80,7 +81,6 @@ Python 🐍
 
 - Advanced Two Pointer
 - Sliding Window
-- HashMap / Frequency Count
 - Stack
 - Linked List
 - Trees
