@@ -50,6 +50,7 @@ The purpose of this repository is to improve my problem-solving skills, understa
 | Subsets II | Backtracking |
 | Combination Sum II | Backtracking |
 | Letter Combination of a Phone number | HashMap / Backtracking |
+| Longest Common Prefix | String / Array |
 ---
 
 ## 💻 Language Used
