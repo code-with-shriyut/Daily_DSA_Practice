@@ -51,6 +51,9 @@ The purpose of this repository is to improve my problem-solving skills, understa
 | Combination Sum II | Backtracking |
 | Letter Combination of a Phone number | HashMap / Backtracking |
 | Longest Common Prefix | String / Array |
+| 3Sum | Array / Two Pointer / Sorting |
+| 4Sum | Array / Two Pointer / Sorting |
+| 3Sum Closest | Array / Two Pointer / Sorting |
 ---
 
 ## 💻 Language Used
