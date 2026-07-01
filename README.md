@@ -18,6 +18,7 @@ The purpose of this repository is to improve my problem-solving skills, understa
 - Hashing
 - Backtracking
 - Strings
+- Stack
 ---
 
 ## ✅ Solved Problems
@@ -54,6 +55,8 @@ The purpose of this repository is to improve my problem-solving skills, understa
 | 3Sum | Array / Two Pointer / Sorting |
 | 4Sum | Array / Two Pointer / Sorting |
 | 3Sum Closest | Array / Two Pointer / Sorting |
+| Detect Capital | String |
+| Asteroid Collision | Stack |
 ---
 
 ## 💻 Language Used
@@ -75,7 +78,7 @@ Python 🐍
 
 ## 📈 Current Progress
 
-✅ 20+ DSA Problems Solved
+✅ 30+ DSA Problems Solved
 
 🔥 Daily Consistency in Progress
 
@@ -85,7 +88,6 @@ Python 🐍
 
 - Advanced Two Pointer
 - Sliding Window
-- Stack
 - Linked List
 - Trees
 - Graphs
