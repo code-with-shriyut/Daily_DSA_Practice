@@ -19,6 +19,7 @@ The purpose of this repository is to improve my problem-solving skills, understa
 - Backtracking
 - Strings
 - Stack
+- Sliding Window
 ---
 
 ## ✅ Solved Problems
@@ -57,6 +58,9 @@ The purpose of this repository is to improve my problem-solving skills, understa
 | 3Sum Closest | Array / Two Pointer / Sorting |
 | Detect Capital | String |
 | Asteroid Collision | Stack |
+| Next Greater Element | Stack/Arrays/Hashing |
+| Find the Index of the First Occurrence in a String | String |
+| Longest Substring Without repeating characters | String / Sliding Window |
 ---
 
 ## 💻 Language Used
@@ -87,7 +91,6 @@ Python 🐍
 ## 📚 Upcoming Topics
 
 - Advanced Two Pointer
-- Sliding Window
 - Linked List
 - Trees
 - Graphs
