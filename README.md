@@ -61,6 +61,8 @@ The purpose of this repository is to improve my problem-solving skills, understa
 | Next Greater Element | Stack/Arrays/Hashing |
 | Find the Index of the First Occurrence in a String | String |
 | Longest Substring Without repeating characters | String / Sliding Window |
+| Word Search | Backtracking / DFS |
+| Add Binary | Bit Manipulation / Maths / String |
 ---
 
 ## 💻 Language Used
