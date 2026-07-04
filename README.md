@@ -63,6 +63,8 @@ The purpose of this repository is to improve my problem-solving skills, understa
 | Longest Substring Without repeating characters | String / Sliding Window |
 | Word Search | Backtracking / DFS |
 | Add Binary | Bit Manipulation / Maths / String |
+| Baseball Game | Stack |
+| Container with Most Water | Two Pointer |
 ---
 
 ## 💻 Language Used
