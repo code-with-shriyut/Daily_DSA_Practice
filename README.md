@@ -66,6 +66,8 @@ The purpose of this repository is to improve my problem-solving skills, understa
 | Baseball Game | Stack |
 | Container with Most Water | Two Pointer |
 | Integer to Roman | Greedy Algorithm / Strings |
+| Contains Duplicate II | Hash Map / Arrays |
+| Search in rotated sorted array | Binary Search / Arrays |
 ---
 
 ## 💻 Language Used
@@ -87,7 +89,7 @@ Python 🐍
 
 ## 📈 Current Progress
 
-✅ 30+ DSA Problems Solved
+✅ 40+ DSA Problems Solved
 
 🔥 Daily Consistency in Progress
 
