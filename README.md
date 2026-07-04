@@ -65,6 +65,7 @@ The purpose of this repository is to improve my problem-solving skills, understa
 | Add Binary | Bit Manipulation / Maths / String |
 | Baseball Game | Stack |
 | Container with Most Water | Two Pointer |
+| Integer to Roman | Greedy Algorithm / Strings |
 ---
 
 ## 💻 Language Used
