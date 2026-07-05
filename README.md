@@ -68,6 +68,7 @@ The purpose of this repository is to improve my problem-solving skills, understa
 | Integer to Roman | Greedy Algorithm / Strings |
 | Contains Duplicate II | Hash Map / Arrays |
 | Search in rotated sorted array | Binary Search / Arrays |
+| Maximum Average Subarray I | Sliding Window / Arrays |
 ---
 
 ## 💻 Language Used
