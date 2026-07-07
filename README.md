@@ -69,6 +69,10 @@ The purpose of this repository is to improve my problem-solving skills, understa
 | Contains Duplicate II | Hash Map / Arrays |
 | Search in rotated sorted array | Binary Search / Arrays |
 | Maximum Average Subarray I | Sliding Window / Arrays |
+| Intersection of Two Arrays | Hashing / Arrays |
+| Intersection of Two Arrays II | Hashing / Arrays |
+| Number of Good Pairs | Hashing / Arrays |
+| Valid Anagram | Hashing |
 ---
 
 ## 💻 Language Used
