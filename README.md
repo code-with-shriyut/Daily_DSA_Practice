@@ -73,6 +73,9 @@ The purpose of this repository is to improve my problem-solving skills, understa
 | Intersection of Two Arrays II | Hashing / Arrays |
 | Number of Good Pairs | Hashing / Arrays |
 | Valid Anagram | Hashing |
+| Count Number of Pairs With Absolute Difference K | Hashing |
+| Sort Array by Increasing Frequency | Hashing |
+| Missing Number | Bit Manipulation |
 ---
 
 ## 💻 Language Used
