@@ -76,6 +76,8 @@ The purpose of this repository is to improve my problem-solving skills, understa
 | Count Number of Pairs With Absolute Difference K | Hashing |
 | Sort Array by Increasing Frequency | Hashing |
 | Missing Number | Bit Manipulation |
+| Jump Game | Greedy Approach |
+| Majority Element II | Arrays |
 ---
 
 ## 💻 Language Used
