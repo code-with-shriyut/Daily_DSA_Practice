@@ -78,6 +78,8 @@ The purpose of this repository is to improve my problem-solving skills, understa
 | Missing Number | Bit Manipulation |
 | Jump Game | Greedy Approach |
 | Majority Element II | Arrays |
+| How Many Numbers Are Smaller Than the Current Number | Sorting / Hashing |
+| Find All Duplicates in the Array | Arrays |
 ---
 
 ## 💻 Language Used
