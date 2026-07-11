@@ -80,6 +80,9 @@ The purpose of this repository is to improve my problem-solving skills, understa
 | Majority Element II | Arrays |
 | How Many Numbers Are Smaller Than the Current Number | Sorting / Hashing |
 | Find All Duplicates in the Array | Arrays |
+| Max Consecutive Ones | Arrays |
+| Find Subsequence of Length K With the Largest Sum | Hashing / Sorting |
+| Subarray Sum Equals K | Prefix Sum / Hash Map |
 ---
 
 ## 💻 Language Used
