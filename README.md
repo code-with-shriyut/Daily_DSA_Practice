@@ -83,6 +83,8 @@ The purpose of this repository is to improve my problem-solving skills, understa
 | Max Consecutive Ones | Arrays |
 | Find Subsequence of Length K With the Largest Sum | Hashing / Sorting |
 | Subarray Sum Equals K | Prefix Sum / Hash Map |
+| Combinations | Backtracking / Recursion |
+| Daily Temperatures | Monotonic Stack |
 ---
 
 ## 💻 Language Used
