@@ -88,6 +88,8 @@ The purpose of this repository is to improve my problem-solving skills, understa
 | First Unique Character in a Stirng | String / HashMap |
 | Remove letter to equalize the frequency | String / HashMap |
 | Length of Last Word | String |
+| N-Queens | Backtracking |
+| N-Queens II | Backtracking |
 ---
 
 ## 💻 Language Used
