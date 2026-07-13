@@ -85,6 +85,9 @@ The purpose of this repository is to improve my problem-solving skills, understa
 | Subarray Sum Equals K | Prefix Sum / Hash Map |
 | Combinations | Backtracking / Recursion |
 | Daily Temperatures | Monotonic Stack |
+| First Unique Character in a Stirng | String / HashMap |
+| Remove letter to equalize the frequency | String / HashMap |
+| Length of Last Word | String |
 ---
 
 ## 💻 Language Used
