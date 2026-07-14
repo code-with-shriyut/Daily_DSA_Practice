@@ -20,6 +20,7 @@ The purpose of this repository is to improve my problem-solving skills, understa
 - Strings
 - Stack
 - Sliding Window
+- Queue
 ---
 
 ## ✅ Solved Problems
@@ -90,6 +91,8 @@ The purpose of this repository is to improve my problem-solving skills, understa
 | Length of Last Word | String |
 | N-Queens | Backtracking |
 | N-Queens II | Backtracking |
+| Number of Recent Calls | Queue |
+| Number of Student Unable to Eat Lunch | Arrays / Frequency Counting |
 ---
 
 ## 💻 Language Used
