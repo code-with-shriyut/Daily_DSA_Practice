@@ -93,6 +93,7 @@ The purpose of this repository is to improve my problem-solving skills, understa
 | N-Queens II | Backtracking |
 | Number of Recent Calls | Queue |
 | Number of Student Unable to Eat Lunch | Arrays / Frequency Counting |
+| Next Permutation | Arrays / Greedy Algorithm |
 ---
 
 ## 💻 Language Used
