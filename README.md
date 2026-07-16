@@ -94,6 +94,9 @@ The purpose of this repository is to improve my problem-solving skills, understa
 | Number of Recent Calls | Queue |
 | Number of Student Unable to Eat Lunch | Arrays / Frequency Counting |
 | Next Permutation | Arrays / Greedy Algorithm |
+| Max number of K Sum Pairs | Array / HashMap |
+| Determine the Most Expensive Item | Conditional Statements |
+| Postfix Expression Evaluation | Stack |
 ---
 
 ## 💻 Language Used
