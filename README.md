@@ -97,6 +97,9 @@ The purpose of this repository is to improve my problem-solving skills, understa
 | Max number of K Sum Pairs | Array / HashMap |
 | Determine the Most Expensive Item | Conditional Statements |
 | Postfix Expression Evaluation | Stack |
+| Count Disjoint Pairs Whose Sum is Divisible by T | Array / Hashmap |
+| Closest Element Using Binary Search | Binary Search & Conditional Statements |
+| Prime Factorization of a Number | Maths |
 ---
 
 ## 💻 Language Used
