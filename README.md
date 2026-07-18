@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)
 ![Problems](https://img.shields.io/badge/Problems-70+-brightgreen?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Daily%20Practice-orange?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-Interview%20Preparation-red?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Problem%20Solving-red?style=for-the-badge)
 
 ---
 
