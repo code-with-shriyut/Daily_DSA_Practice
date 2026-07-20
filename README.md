@@ -172,7 +172,9 @@ Every solution focuses on:
 | Count Disjoint Pairs Whose Sum is Divisible by T | Arrays / HashMap |
 | Closest Element Using Binary Search | Binary Search |
 | Prime Factorization of a Number | Maths |
-
+| Kth Best-Selling Product Using Min Heap | Min Heap(Priority Queue) |
+| Time Conversion (12-Hour to 24-Hour Format) | String Manipulation |
+| Determine most expensive item | Conditional Statements |
 ---
 
 # 📈 Repository Highlights
