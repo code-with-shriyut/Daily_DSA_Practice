@@ -175,6 +175,7 @@ Every solution focuses on:
 | Kth Best-Selling Product Using Min Heap | Min Heap(Priority Queue) |
 | Time Conversion (12-Hour to 24-Hour Format) | String Manipulation |
 | Determine most expensive item | Conditional Statements |
+| Power of Two | Math |
 ---
 
 # 📈 Repository Highlights
