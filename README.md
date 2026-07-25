@@ -176,6 +176,7 @@ Every solution focuses on:
 | Time Conversion (12-Hour to 24-Hour Format) | String Manipulation |
 | Determine most expensive item | Conditional Statements |
 | Power of Two | Math |
+| Single Number | Bit Manipulation |
 ---
 
 # 📈 Repository Highlights
