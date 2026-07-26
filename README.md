@@ -177,6 +177,7 @@ Every solution focuses on:
 | Determine most expensive item | Conditional Statements |
 | Power of Two | Math |
 | Single Number | Bit Manipulation |
+| Sort Colors | Two Pointers |
 ---
 
 # 📈 Repository Highlights
