@@ -178,6 +178,9 @@ Every solution focuses on:
 | Power of Two | Math |
 | Single Number | Bit Manipulation |
 | Sort Colors | Two Pointers |
+| Two Sum II | Two Pointers |
+| Trapped Rain Water | Two Pointer(Optimal) / Prefix & Suffix Arrays |
+
 ---
 
 # 📈 Repository Highlights
