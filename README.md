@@ -180,6 +180,8 @@ Every solution focuses on:
 | Sort Colors | Two Pointers |
 | Two Sum II | Two Pointers |
 | Trapped Rain Water | Two Pointer(Optimal) / Prefix & Suffix Arrays |
+| Max Consecutive Ones III | Sliding Window |
+
 
 ---
 
