@@ -181,7 +181,7 @@ Every solution focuses on:
 | Two Sum II | Two Pointers |
 | Trapped Rain Water | Two Pointer(Optimal) / Prefix & Suffix Arrays |
 | Max Consecutive Ones III | Sliding Window |
-
+| Subarray Product Less than K | Sliding Window |
 
 ---
 
