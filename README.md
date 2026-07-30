@@ -182,6 +182,7 @@ Every solution focuses on:
 | Trapped Rain Water | Two Pointer(Optimal) / Prefix & Suffix Arrays |
 | Max Consecutive Ones III | Sliding Window |
 | Subarray Product Less than K | Sliding Window |
+| Fruit Into Baskets | Sliding Window |
 
 ---
 
