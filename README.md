@@ -183,6 +183,7 @@ Every solution focuses on:
 | Max Consecutive Ones III | Sliding Window |
 | Subarray Product Less than K | Sliding Window |
 | Fruit Into Baskets | Sliding Window |
+| Longest Palindromic Substring | Strings / Two Pointers |
 
 ---
 
