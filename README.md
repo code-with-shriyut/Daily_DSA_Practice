@@ -184,6 +184,7 @@ Every solution focuses on:
 | Subarray Product Less than K | Sliding Window |
 | Fruit Into Baskets | Sliding Window |
 | Longest Palindromic Substring | Strings / Two Pointers |
+| Palindromic Substrings | Strings / Two Pointers |
 
 ---
 
